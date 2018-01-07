@@ -1,0 +1,20 @@
+{
+  "name": "async",
+  "version": "0.0.1",
+  "description": "async",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "thunkify": "latest",
+    "co": "latest"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "data-sync-module"
+  ]
+}
